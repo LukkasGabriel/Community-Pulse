@@ -1,5 +1,6 @@
 # 📊 Community Insights Dashboard for NGO
 
+
 ## Overview
 
 This project is a **Microsoft Excel dashboard** developed to support a local NGO in making **data-driven decisions** to better serve the community. It uses **publicly available data** from interviews with residents to provide visual insights into community challenges, strengths, and opportunities for improvement.
@@ -53,6 +54,8 @@ The dashboard aims to help NGOs:
 
 ## 📸 Preview
 
+
+https://github.com/user-attachments/assets/2d2008da-a849-4e6f-9b80-9dfa2c1e4011
 
 
 ## ✅ Technologies Used
