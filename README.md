@@ -1,5 +1,10 @@
 # 📊 Community Insights Dashboard for NGO
 
+## 📸 Preview
+
+
+https://github.com/user-attachments/assets/2d2008da-a849-4e6f-9b80-9dfa2c1e4011
+
 
 ## Overview
 
@@ -52,10 +57,7 @@ The dashboard aims to help NGOs:
 - Encourage community participation
 - Discover opportunities for new social projects
 
-## 📸 Preview
 
-
-https://github.com/user-attachments/assets/2d2008da-a849-4e6f-9b80-9dfa2c1e4011
 
 
 ## ✅ Technologies Used
